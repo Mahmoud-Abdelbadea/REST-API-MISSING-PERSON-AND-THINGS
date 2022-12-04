@@ -1,4 +1,4 @@
-# Searching for persons and things
+# Searching for missing persons and things
 RESTFUL-API-SEARCHING-FOR-PERSONS-AND-THINGS
 ## Tecnology Used:
 
