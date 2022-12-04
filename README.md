@@ -24,6 +24,13 @@ And artificial intelligence has become an interesting matter and made
 life easier, so we made it easy for you to search by searching by
 pictures. If the person is already present, his data will appear in front
 of you, and if he is not present, you can add him to be found.
+#### Brief about search by image
+In order to search by image, we created an api using Python by creating Algorithm
+to compare the similarity between the searched image and the image in the database.
+We also linked the Python api to the Nodejs api.
+
+
+
 
 
 
