@@ -1,6 +1,6 @@
 # Searching for missing persons and things
 RESTFUL-API-SEARCHING-FOR-PERSONS-AND-THINGS
-## Tecnology Used:
+## Technology Used:
 
 Express,MongoDB,Mongoose
 
